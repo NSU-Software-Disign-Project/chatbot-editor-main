@@ -1,4 +1,4 @@
-# Визуальный рдактор чат-ботов
+# Визуальный рeдактор чат-ботов
 
 ## [Все задачи](https://github.com/NSU-Software-Disign-Project/chatbot-editor-main/issues)
 
